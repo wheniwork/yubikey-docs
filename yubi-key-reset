@@ -1,0 +1,5 @@
+Follow this for yubi key reset
+https://developers.yubico.com/ykneo-openpgp/ResetApplet.html
+
+gpg-connect-agent -r yubikey-reset
+
